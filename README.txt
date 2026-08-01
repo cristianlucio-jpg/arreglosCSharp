@@ -54,7 +54,11 @@ Instituto | curso.cs, pregrado.cs, programa.cs | Registro de cursos y créditos 
 arreglosCSharp/
 ├── src/
 │   └── ejercicio01Instituto/
-└── README.md
+├── .gitignore
+├── LICENSE
+├── README.md
+└── ejercicio01Instituto
+
 
 ## Ejemplo de ejecución
 Entrada:
