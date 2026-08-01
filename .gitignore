@@ -1,0 +1,32 @@
+# Compilados y temporales
+bin/
+obj/
+*.exe
+*.dll
+
+# Configuración local de Visual Studio
+.vs/
+*.user
+*.suo
+
+# Archivos de logs
+*.log
+
+# Archivos de entorno (variables sensibles)
+*.env
+
+# Archivos de respaldo y temporales
+*.bak
+*.tmp
+*.swp
+
+# Configuración de IDEs
+.idea/
+.vscode/
+
+# Paquetes NuGet descargados
+packages/
+*.nupkg
+
+# Archivos de publicación
+publish/
