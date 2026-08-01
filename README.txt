@@ -57,7 +57,7 @@ arreglosCSharp/
 ├── .gitignore
 ├── LICENSE
 ├── README.md
-└── ejercicio01Instituto
+└── ejercicio01Instituto.csproj
 
 
 ## Ejemplo de ejecución
