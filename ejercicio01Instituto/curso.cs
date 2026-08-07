@@ -17,7 +17,7 @@ public class curso
     /// Devuelve la información básica del curso en formato de texto.
     /// </summary>
     /// <returns>Cadena con código y nombre del curso.</returns>
-    public string InformacionCurso()
+    public string informacionCurso()
     {
         return $"InformacionCurso:\n\tCódigo: {codigoCurso}\n\tNombre: {nombreCurso}\n\tHorario: {horarioCurso}";
     }

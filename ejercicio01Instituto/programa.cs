@@ -42,7 +42,7 @@ public class programa
         Console.WriteLine("Error: Debe ingresar un número decimal válido (ejemplo: 4,5).");
     }
         
-        Console.WriteLine(cursoMatematicas.InformacionCurso());
+        Console.WriteLine(cursoMatematicas.informacionCurso());
         Console.WriteLine(cursoMatematicas.informacionPregrado());
     }
 }

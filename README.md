@@ -1,6 +1,9 @@
-Proyeto: arreglosCSharp
+## Proyeto: arreglosCSharp
 
+## Descripción
 Proyecto académico en C# que aplica arreglos y listas para organizar datos, con énfasis en encapsulación, herencia básica y principios de programación limpia.
+
+---
 
 ## Objetivos
 - Comprender y aplicar arreglos en C#.
@@ -8,13 +11,19 @@ Proyecto académico en C# que aplica arreglos y listas para organizar datos, con
 - Practicar encapsulación y herencia básica.
 - Aplicar principios SOLID, KISS, TRY y YAGNI.
 
+---
+
 ## Pilares aplicados
 - **Encapsulación:** propiedades en `curso` y `pregrado`.  
-- **Herencia:** `pregrado` hereda de `curso`.  
+- **Herencia:** `pregrado` hereda de `curso`. 
+
+---
 
 ## Conversiones
 - Implícitas: intensidad horaria semanal (`string` → `double`).  
 - Explícitas: conversión nota mínima aprobatoria semanal (`double` → `int`). conversión código curso(`string` →`int`). 
+
+---
 
 ## Principios aplicados
 - **SOLID:** Clases con responsabilidades claras. 
@@ -44,10 +53,19 @@ Proyecto académico en C# que aplica arreglos y listas para organizar datos, con
  
  **KISS:** Código simple y directo, fácil de entender.  
 - **YAGNI:** Solo se implementan los atributos necesarios para el ejercicio, evitando complejidad innecesaria.  
+
+---
   
 ## Contenido del proyecto
 Ejercicio | Clase/Archivo | Descripción
 Instituto | curso.cs, pregrado.cs, programa.cs | Registro de cursos y créditos académicos.
+
+---
+
+## Tecnologías usadas
+- C#
+- .NET SDK
+- Visual Studio / Visual Studio Code
 
 ## Estructura del proyecto
 ```text
